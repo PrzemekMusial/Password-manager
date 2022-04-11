@@ -104,7 +104,7 @@ website_entry.focus()     #ustawia kursor w polu
 
 username_entry = Entry(width=35)
 username_entry.grid(column=1, row=2, columnspan=2, sticky="ew")
-username_entry.insert(0, "pmprzemek@gmail.com")
+username_entry.insert(0, "YouEmail@mail.com")
 password_entry = Entry()
 password_entry.grid(column=1, row=3, sticky="ew")
 
